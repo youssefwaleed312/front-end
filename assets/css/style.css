@@ -1,0 +1,19 @@
+.carousel-caption h5 {
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.carousel-caption p {
+  font-size: 22px;
+  color: bisque;
+}
+
+.carousel-dark .carousel-indicators [data-bs-target] {
+  background-color: #fff;
+}
+
+.carousel-dark .carousel-control-next-icon,
+.carousel-dark .carousel-control-prev-icon {
+  color: #fff;
+  filter: brightness(1);
+}
